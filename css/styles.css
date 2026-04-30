@@ -22,7 +22,6 @@ footer {
   padding: 2em;
   border-top: 3px solid #000000;
   font-family: "Lora", serif;
-  font-optical-sizing: auto;
   font-weight: 500;
   font-style: normal;
   margin-top: 75px;
@@ -65,7 +64,6 @@ tr:nth-of-type(odd) {
 nav {
   text-align: center;
   font-size: medium;
-  font-display: block;
 }
 
 nav a {
@@ -115,7 +113,6 @@ img {
 }
 p, h2 {
     font-family: "Lora", serif;
-  font-optical-sizing: auto;
   font-weight: 500;
   font-style: normal;
 }
